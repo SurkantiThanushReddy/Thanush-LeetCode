@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
