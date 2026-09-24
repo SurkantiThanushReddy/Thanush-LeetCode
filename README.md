@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
