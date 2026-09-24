@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3870-count-commas-in-range) |
 ## Backtracking
 |  |
 | ------- |
