@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0136-single-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
