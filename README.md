@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -159,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
