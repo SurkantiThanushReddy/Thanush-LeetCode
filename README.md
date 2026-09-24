@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
