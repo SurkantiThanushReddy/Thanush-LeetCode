@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0009-palindrome-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
