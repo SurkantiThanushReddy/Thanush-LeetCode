@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -328,4 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 <!---LeetCode Topics End-->
