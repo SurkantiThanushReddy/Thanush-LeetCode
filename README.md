@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
