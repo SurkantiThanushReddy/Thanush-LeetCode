@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
