@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
 <!---LeetCode Topics End-->
