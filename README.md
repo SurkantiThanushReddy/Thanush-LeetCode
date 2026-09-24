@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0784-letter-case-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0784-letter-case-permutation](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
