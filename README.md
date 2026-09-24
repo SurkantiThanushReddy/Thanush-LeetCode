@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
