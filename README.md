@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
