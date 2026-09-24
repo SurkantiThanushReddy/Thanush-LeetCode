@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 ## String Matching
 |  |
 | ------- |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
