@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
