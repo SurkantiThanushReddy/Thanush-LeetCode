@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
