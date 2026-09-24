@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0016-3sum-closest) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
