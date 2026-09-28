@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0917-reverse-only-letters) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
