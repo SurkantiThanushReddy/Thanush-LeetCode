@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
