@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0917-reverse-only-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
