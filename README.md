@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0525-contiguous-array) |
+| [0645-set-mismatch](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0771-jewels-and-stones) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
