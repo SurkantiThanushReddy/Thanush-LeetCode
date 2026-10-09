@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
