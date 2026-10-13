@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0415-add-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
