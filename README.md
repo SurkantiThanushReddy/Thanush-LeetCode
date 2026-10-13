@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0791-custom-sort-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
