@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4054-count-shadow-pairs-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0881-boats-to-save-people) |
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## String Matching
 |  |
