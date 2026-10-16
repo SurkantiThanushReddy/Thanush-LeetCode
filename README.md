@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
