@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-rearranging-fruits](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2561-rearranging-fruits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -406,10 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4055-count-shadow-pairs-ii](https://github.com/SurkantiThanushReddy/Thanush-LeetCode/tree/master/4055-count-shadow-pairs-ii) |
 ## Bracket Sequences
 |  |
